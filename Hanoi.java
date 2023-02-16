@@ -1,4 +1,3 @@
-package Lab5;
 //programmers: Ronin Sloan, Tuan Le
 //Lab 5 towers of hanoi
 //date: 2/16/23
