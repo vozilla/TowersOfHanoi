@@ -3,6 +3,9 @@ package Lab5;
 //Lab 5 towers of hanoi
 //date: 2/16/23
 //purpose: create a program that can solve the towers of hanoi puzzle.
+
+//Extra credit: Made a version of this in Python 3.10
+
 public class Hanoi {
     public static void main(String[] args) {
         int plate = 4;
